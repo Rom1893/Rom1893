@@ -1,5 +1,5 @@
 # 👨‍💻 About Me:
-🚀Passionate Full-Stack developer<br>🤲Thrive in collaborative environments<br>🧶Ability to solve complex problems<br>🇺🇸 🇨🇱 Bilingual<br>📡Excellent communication skills
+🚀Passionate Full-Stack, Back-End developer<br>🤲Thrive in collaborative environments<br>🧶Ability to solve complex problems<br>🇺🇸 🇨🇱 Bilingual<br>📡Excellent communication skills
 
 
 ## 🌐 Socials:
