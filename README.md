@@ -1,5 +1,5 @@
 # 👨‍💻 About Me:
-🚀Senior Full-Stack developer<br>🤲Thrive in collaborative environments<br>🧶Ability to solve complex problems<br>🇺🇸 🇨🇱 Bilingual<br>📡Excellent communication skills
+🚀Senior Software Engineer<br>🤲Thrive in collaborative environments<br>🧶Ability to solve complex problems<br>🇺🇸 🇨🇱 Bilingual<br>📡Excellent communication skills
 
 
 ## 🌐 Socials:
